@@ -1,4 +1,4 @@
-## Hi, Welcome to SparkLearn EdTech's GitHub Page 👋
+## Hi, Welcome to SparkLearn EdTech's GitHub Pager 👋
 
 ![SparkLearn EdTech Cover Photo](https://github.com/sparklearnedtech/.github/blob/main/images/cover-photo.png)
 
@@ -20,4 +20,4 @@ SparkLearn EdTech envisions a community that builds different use cases using bl
 
 - [SparkLearn EdTech Website](https://sparklearn-edtech.com) - Our company website
 - [SparkLearn EdTech Webapp](https://app.sparklearn-edtech.com) - Our MOOC platform for our online courses
-- [Blockchain Developer Bootcamp](https://github.com/primer/css) - The GitHub design system
+- [Blockchain Developer Bootcamp](https://github.com/primer/css) - Our bootcamp program focusing on Blockchain and Web3 DApps development
