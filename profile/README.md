@@ -1,4 +1,4 @@
-## Hi, Welcome to SparkLearn EdTech's GitHub Pager 👋
+## Hi, Welcome to SparkLearn EdTech's GitHub Page 👋
 
 ![SparkLearn EdTech Cover Photo](https://github.com/sparklearnedtech/.github/blob/main/images/cover-photo.png)
 
