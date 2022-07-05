@@ -18,7 +18,7 @@ SparkLearn EdTech envisions a community that builds different use cases using bl
 
 ### 💻 Products and Services
 
-- [SparkLearn EdTech Website](https://sparklearn-edtech.com) - Our company website
-- [SparkLearn EdTech Webapp](https://app.sparklearn-edtech.com) - Our MOOC platform for our online courses
+- [SparkLearn EdTech Website](https://sparklearn-edtech.com/about-us/) - Our company website
+- [SparkLearn EdTech Webapp](https://sparklearn-edtech.com) - Our MOOC platform for our online courses
 - [SparkLearn rSRK Faucet](https://faucet.sparklearn-edtech.com) - Our faucet where you can get free rSRKs for testing as you learn to build your own DApp
-- [Blockchain Developer Bootcamp](https://github.com/primer/css) - Our bootcamp program focusing on Blockchain and Web3 DApps development
+- [Blockchain Developer Bootcamp](https://sparklearn-edtech.com/bdb/) - Our bootcamp program focusing on Blockchain and Web3 DApps development
