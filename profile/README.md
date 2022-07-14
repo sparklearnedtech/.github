@@ -23,10 +23,9 @@ SparkLearn EdTech envisions a community that builds different use cases using bl
 - [Blockchain Developer Bootcamp](https://lrn.ac/bdb) - A cohort of aspiring Blockchain developers mentored by experienced engineers in the industry.
 
 #### Others
-- Speaking Engagement about Blockchain from our:
+- Speaking Engagements about Blockchain from our:
   - CEO, [Melissa Mesias](https://lrn.ac/ceo) - Marketing, Community Building, and Business Aspects.
   - CTO, [Harvey Javier](https://lrn.ac/cto) - Smart Contract and DAPP Development Trainings, and In-depth or Technical Aspects.
-- [Speaking Engagement from our CTO](lrn.ac/cto) - 
 - [SparkLearn rSRK Faucet](https://lrn.ac/faucet) - Our faucet where you can get free rSRKs for testing as you learn to build your own DApp.
 - [SparkLearn IPFS Uploader](https://ipfs.sparklearn-edtech.com) - Simple IPFS uploader for testing.
 
