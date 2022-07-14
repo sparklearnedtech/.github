@@ -18,7 +18,17 @@ SparkLearn EdTech envisions a community that builds different use cases using bl
 
 ### 💻 Products and Services
 
-- [SparkLearn EdTech Website](https://sparklearn-edtech.com/about-us/) - Our company website
-- [SparkLearn EdTech Webapp](https://sparklearn-edtech.com) - Our MOOC platform for our online courses
-- [SparkLearn rSRK Faucet](https://faucet.sparklearn-edtech.com) - Our faucet where you can get free rSRKs for testing as you learn to build your own DApp
-- [Blockchain Developer Bootcamp](https://sparklearn-edtech.com/bdb/) - Our bootcamp program focusing on Blockchain and Web3 DApps development
+#### Flagship
+- [SparkLearn EdTech Webapp](lrn.ac) - MOOC platform
+- [Blockchain Developer Bootcamp](lrn.ac/bdb) - A cohort of aspiring Blockchain developers mentored by experienced engineers in the industry.
+
+#### Others
+- Speaking Engagement about Blockchain from our:
+  - CEO, [Melissa Mesias](lrn.ac/ceo) - Marketing, Community Building, and Business Aspects.
+  - CTO, [Harvey Javier](lrn.ac/cto) - Smart Contract and DAPP Development Trainings, and In-depth or Technical Aspects.
+- [Speaking Engagement from our CTO](lrn.ac/cto) - 
+- [SparkLearn rSRK Faucet](lrn.ac/faucet) - Our faucet where you can get free rSRKs for testing as you learn to build your own DApp.
+- [SparkLearn IPFS Uploader](https://ipfs.sparklearn-edtech.com) - Simple IPFS uploader for testing.
+
+
+For more info visit our [website](lrn.ac/about)
