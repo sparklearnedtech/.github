@@ -30,4 +30,4 @@ SparkLearn EdTech envisions a community that builds different use cases using bl
 - [SparkLearn IPFS Uploader](https://ipfs.sparklearn-edtech.com) - Simple IPFS uploader for testing.
 
 
-For more info visit our [website](lrn.ac/about)
+For more info visit our [website](https://lrn.ac/about)
