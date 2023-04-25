@@ -2,29 +2,25 @@
 
 ![SparkLearn EdTech Cover Photo](https://github.com/sparklearnedtech/.github/blob/main/images/cover-photo.png)
 
-SparkLearn EdTech is an online upskilling platform for Blockchain technology and web3 education.
+SparkLearn EdTech empowers individuals and businesses with the necessary skills, knowledge, and capabilities to succeed in today's fast-changing technological landscape through our technology workforce development programs.
 
 ### 🎯 Our Mission
 
-We envision the Philippines becoming the global hub for web3 builders.
+We aim to empower Filipinos by providing access to the necessary technological skills to thrive in the global economy, thus improving their quality of life through learning.
 
 ### 📈 Our Vision
 
-We aim to cultivate a community of web3 builders with Filipinos taking the lead.
+We are committed to providing comprehensive technological education to enhance digital literacy among Filipinos, ensuring that it is accessible to everyone regardless of location or time.
 
 ### 💻 Products and Services
 
-#### Flagship
-- **[SparkLearn EdTech MOOC Platform](https://lrn.ac)** - A Massive Open Online Course (MOOC) and Learning Management System (LMS).
-- **[Blockchain Developer Bootcamp](https://lrn.ac/bdb)** - A 12-week online bootcamp focused on teaching the fundamental concepts and key tools in smart contract and decentralized application (DApp) development.
+- **[SparkLearn EdTech MOOC Platform](https://lrn.ac)** - A Learning Management System (LMS) that hosts a Massive Open Online Course (MOOC).
+- **[Blockchain Developer Bootcamp](https://lrn.ac/bdb)** - A 4-week online bootcamp focused on teaching the fundamental concepts and key tools in smart contract and decentralized application (DApp) development.
+- **Custom Online/Offline Trainings for Businesses** - A custom or bespoke bootcamp with shorter timeline, suited for the needs of your business or organization, and update your employees' knowledge base about Blockchain technology.
 - **Full-stack Developer Bootcamp (Coming Soon)** - A bootcamp dedicated for career-shifters with zero coding knowledge who want transition to software engineering and development.
-- **Custom Online/Offline Trainings for Businesses (Coming Soon)** - A custom or bespoke bootcamp with shorter timeline, suited for the needs of your business or organization, and update your employees' knowledge base about Blockchain technology.
-- **NFT Masterclass (Coming Soon)** - A dedicated course for aspiring artists who wants to explore and deep dive into NFTs.
-
-#### Others
-- **Speaking Engagements about Blockchain from our**:
-  - **CEO, [Melissa Mesias](https://lrn.ac/ceo)** - Marketing, community Building, and business aspects.
-  - **CTO, [Harvey Javier](https://lrn.ac/cto)** - Smart contract and DAPP development trainings, in-depth and technical discussions about Blockchain technology.
+- **Speaking Engagements and Trainings from our**:
+  - **CEO, [Melissa Mesias](https://lrn.ac/ceo)** - Marketing, community building, and business aspects.
+  - **CTO, [Harvey Javier](https://lrn.ac/cto)** - Technical trainings about Blockchain, AI, full-stack development, IoT, and other technologies.
 - **[SparkLearn SRK Faucet](https://lrn.ac/faucet)** - Our faucet where you can get free SRKs for testing as you learn to build your own DApp.
 - **[SparkLearn IPFS Uploader](https://ipfs.sparklearn-edtech.com)** - Simple IPFS uploader for testing.
 
